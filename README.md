@@ -17,7 +17,7 @@ UI/UX Designer • Frontend Developer • Creative Tech Student
 
 <!-- 🌌 SPACE ANIMATION -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216656964-3a8b0d43-7e5c-4c75-9d1c-8f66e6b6d7d3.gif" width="70%">
+<img src="8566227add4552e94c8a9faaa0edaa4a.gif" width="70%">
 </p>
 
 ---
@@ -25,7 +25,7 @@ UI/UX Designer • Frontend Developer • Creative Tech Student
 # 🌿 About Me
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250">
+<img src="8787116ccf1340e00cf5c7268e87f196.gif" width="250">
 </p>
 
 - 🌱 Currently learning **Internet of Things (IoT)**
@@ -94,31 +94,14 @@ UI/UX Designer • Frontend Developer • Creative Tech Student
 
 <!-- 🌿 NATURE ANIMATION -->
 <p align="center">
-<img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="500">
+<img src="17285fc448d970cdd53b1b3ba11d7e66.gif" width="500">
 </p>
 
----
-
-# 🌌 GitHub Galaxy Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dahamidev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=6a00ff&text_color=ffffff"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dahamidev&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=6a00ff"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahamidev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
----
 
 # 🏆 Developer Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dahamidev&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="efc61866651fd7692b2cb09a068af975.gif"/>
 </p>
 
 ---
@@ -126,7 +109,7 @@ UI/UX Designer • Frontend Developer • Creative Tech Student
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dahamidev&bg_color=0d1117&color=00d4ff&line=6a00ff&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dahamidev&bg_color=000000&color=00A300&line=00FF00&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
